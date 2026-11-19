@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Dataset
+FOD_Dataset/
+datasets/
+*.zip
+
+# Large model files
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.log
+.DS_Store
